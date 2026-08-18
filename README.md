@@ -66,65 +66,32 @@ The money flow starts when a customer purchases products through the marketplace
 
 ### 2.1 Super Admin
 
-**1. Approve or Reject Shop Owners**  
-As a Super Admin, I can approve or reject new shop registrations so that only trusted grocery shops can join the platform.  
-The Super Admin can see pending shop registrations and choose Approve or Reject. The shop status is then updated in the database.
+**1. Manage Shop Owners**  
+As a Super Admin, I want to manage shop owners via the Manage Shop Owners module.
 
-**2. Manage Shop Owners**  
-As a Super Admin, I can suspend or delete shop owners so that I can keep the platform safe and reliable.  
-The Super Admin selects a shop owner and confirms the action. The account status is updated accordingly.
-
-**3. View Users**  
-As a Super Admin, I can view and search users so that I can keep track of the Admins and Customers using the system.  
-Users are shown in a list with search and filter options.
-
-**4. View Platform Sales**  
-As a Super Admin, I can view total sales and commission so that I can understand how the marketplace is performing.  
-The system calculates the total orders, sales, and commission from completed orders.
-
-**5. Check Low-Rated Shops**  
-As a Super Admin, I can see low-rated shops so that I can identify shops that may need attention.  
-The system calculates the average ratings and displays shops below the selected rating.
+**2. View Platform Sales**  
+As a Super Admin, I want to view platform sales and commissions via the Platform Sales & Commission section.
 
 **6. Manage Categories**  
-As a Super Admin, I can add, edit, and delete product categories so that grocery products can be organized properly.  
-The category information is checked and then saved in the database.
+As a Super Admin, I want to manage product categories via the Manage Categories section.
 
 **7. Manage Reviews**  
-As a Super Admin, I can remove inappropriate reviews so that customers can have a better experience on the platform.  
-The Super Admin selects a review and confirms its removal.
+As a Super Admin, I want to moderate and manage customer reviews via the Manage Reviews section.
 
 
 ### 2.2 Admin
 
-**1. Manage Shop Profile**  
-As an Admin, I can update my approved shop profile so that customers can see accurate information about my shop.  
-I can update details such as shop name, category, address, and contact information.
+**1. Manage Products**  
+As a Shop Admin, I want to manage products through Product Management.
 
+**2. Manage Stock**  
+As a Shop Admin, I want to track and update levels via Inventory / Stock.
 
-**2. Manage Products**  
-As an Admin, I can add, update, and delete my products so that customers can see what my shop has available.  
-Product details such as name, price, stock, and description are saved in the database.
+**3. View Sales and Earnings**  
+As a Shop Admin, I want to monitor earnings and revenues via Sales & Earnings.
 
-**3. Manage Stock**  
-As an Admin, I can check my product stock so that I know when products are running low.  
-The system shows the current stock and gives a low-stock alert when it goes below the minimum level.
-
-**4. View Sales and Earnings**  
-As an Admin, I can view my shop's sales and earnings so that I can understand how my shop is performing.  
-The system shows sales information only for my own shop.
-
-**5. Create Discounts**  
-As an Admin, I can create discount offers so that I can attract more customers.  
-I can enter the discount percentage and start and end dates, which are checked before being saved.
-
-**6. View Reviews**  
-As an Admin, I can view reviews for my products so that I can understand what customers think about them.  
-Reviews are displayed for my products, but I cannot delete customer reviews.
-
-**7. Update Profile and Password**  
-As an Admin, I can update my profile and password so that my account information stays correct and secure.  
-The system checks the information before saving the changes.
+**4. Create Discounts**  
+As a Shop Admin, I want to set up and manage discounts or promotions via Offers.
 
 
 ### 2.3 Customer
@@ -134,44 +101,19 @@ As a Customer, I can create an account and sign in so that I can use the grocery
 The system checks the required information before creating the account.
 
 **2. Browse Products**  
-As a Customer, I can browse products from different shops so that I can find the groceries I need.  
-Products are shown with information such as name, price, shop, and availability.
+As a Customer, I want to search and filter products via Browse Products.
 
-**3. Search Products**  
-As a Customer, I can search for products by name or keyword so that I can find items more quickly.  
-The system shows products that match my search.
-
-**4. Filter Products**  
-As a Customer, I can filter products by price, category, and availability so that I can find suitable products more easily.  
-The selected filters are applied to the product list.
-
-**5. View Product Details and Reviews**  
-As a Customer, I can view product details and reviews so that I can decide whether I want to buy a product.  
-The system shows the product information, rating, and customer reviews.
+**3. Product's Details**  
+As a Customer, I want to view specific item details and feedback through Product Details & Reviews.
 
 **6. Manage Cart**  
-As a Customer, I can add, update, or remove products from my cart so that I can prepare my order before checkout.  
-The cart shows the selected products, quantities, prices, and total amount.
+As a Customer, I want to add selected items to my Cart.
 
-**7. Checkout and Payment**  
-As a Customer, I can checkout and select a payment method so that I can complete my purchase.  
-After checkout, the order is saved, the order items are recorded, and the product stock is reduced.
+**7. Checkout**  
+As a Customer, I want to proceed to Checkout / Invoice to complete my purchase.
 
-**8. Order History and Invoice**  
-As a Customer, I can view my previous orders and invoices so that I can keep track of my purchases.  
-The system only shows orders belonging to my account.
-
-**9. Give Rating and Review**  
-As a Customer, I can give a rating and write a review so that I can share my experience with other customers.  
-The rating must be between 1 and 5 before the review is saved.
-
-**10. View Discounts**  
-As a Customer, I can view available discounts so that I can find products at lower prices.  
-The system shows offers that are currently active.
-
-**11. Update Profile and Password**  
-As a Customer, I can update my profile and password so that my account information stays accurate and secure.  
-The system checks the changes before saving them.
+**8. Order History**  
+As a Customer, I want to view my past purchases through Order History.
 
 ## D3. UI Navigation Diagram 
 <img width="673" height="812" alt="UI_Navigation_Diagram png" src="https://github.com/user-attachments/assets/2c84ef33-386c-49fc-ba6f-a786dcb14808" />
@@ -180,3 +122,6 @@ The system checks the changes before saving them.
 <img width="1100" height="1060" alt="Grocery Marketplace Management System" src="https://github.com/user-attachments/assets/83acdd05-b164-4d91-a731-924b219ee706" />
 
 ## D5. SQL Script 
+Given in database folder directory.
+
+## D6. UI Mockups / Form Designs 
