@@ -28,7 +28,7 @@ The money flow starts when a customer purchases products through the marketplace
 ### 1.1 Super Admin
 
 1. The system shall allow the Super Admin to suspend or delete shop owners.
-2. The system shall allow the Super Admin to view, search, and filter all Admins and Customers.
+2. The system shall allow the Super Admin to view, search, and filter all Admins.
 3. The system shall display platform-wide sales, revenue, orders, and commission information.
 4. The system shall allow the Super Admin to add, edit, and delete product categories.
 5. The system shall allow the Super Admins to Delete or reply to Reviews.
