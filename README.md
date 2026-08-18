@@ -115,3 +115,48 @@ As a Customer, I want to view my past purchases through Order History.
 Given in database folder directory.
 
 ## D6. UI Mockups / Form Designs 
+
+### LOGIN
+<img width="762" height="442" alt="01-login" src="https://github.com/user-attachments/assets/948b1d48-d8dd-48bb-a71c-f6b40a1a9539" />
+
+### SIGN UP
+<img width="762" height="583" alt="02-signup" src="https://github.com/user-attachments/assets/f9c93db9-1ea8-4ba1-94a2-a7d17e1a1466" />
+
+### Super Admin - SHOP OWNERS
+<img width="762" height="442" alt="03-superadmin-manage-shop-owners" src="https://github.com/user-attachments/assets/2fa30ca6-f59a-4f37-afe3-cc1544e652a1" />
+
+### Super Admin - Sales Report
+<img width="762" height="472" alt="04-superadmin-sales-report" src="https://github.com/user-attachments/assets/48d8b5c1-9fa3-4c49-b528-4220c4366e47" />
+
+### Super Admin - Manage Categories
+<img width="762" height="472" alt="05-superadmin-manage-categories" src="https://github.com/user-attachments/assets/9fa0a683-9e39-45b2-a3b4-250c7ed802db" />
+
+### Super Admin - Manage Reviews
+<img width="762" height="472" alt="06-superadmin-manage-reviews" src="https://github.com/user-attachments/assets/f3e20bb3-5e61-4028-b08f-fcbd5b15ef67" />
+
+### Admin - Products Management
+<img width="762" height="472" alt="07-admin-products-management" src="https://github.com/user-attachments/assets/f0e8fd96-f456-4ed7-b548-9522cf52abc4" />
+
+### Admin - Inventory
+<img width="762" height="472" alt="08-admin-inventory" src="https://github.com/user-attachments/assets/23c9ff63-5c99-4c04-a492-596f6c917560" />
+
+### Admin - Sales & Earnings
+<img width="762" height="472" alt="09-admin-sales-earnings" src="https://github.com/user-attachments/assets/85c3b7e8-d45e-499f-a2c8-7b001e0e7342" />
+
+### Admin - Offers
+<img width="762" height="472" alt="10-admin-offers" src="https://github.com/user-attachments/assets/3ccbd555-7c44-4df8-81ac-2a9b232942d9" />
+
+### Customer - Browse Products
+<img width="762" height="472" alt="11-customer-browse" src="https://github.com/user-attachments/assets/67fb2b94-1bb3-4c3b-9570-e8f7f6d56d30" />
+
+### Customer - Product Details
+<img width="762" height="472" alt="12-customer-product-details" src="https://github.com/user-attachments/assets/66979029-62d1-4c77-b673-61b41442f685" />
+
+### Customer - Cart
+<img width="762" height="472" alt="13-customer-cart" src="https://github.com/user-attachments/assets/bfbe544f-cf6c-4903-953e-de630f803430" />
+
+### Customer - Checkout
+<img width="886" height="472" alt="14-customer-checkout" src="https://github.com/user-attachments/assets/a07a33a1-c8f1-4bcb-961d-c8512c641ab2" />
+
+### Customer - Order History
+<img width="762" height="472" alt="15-customer-order-history" src="https://github.com/user-attachments/assets/882bb2c9-d0a1-4e4d-97ae-7cf2a1d82d66" />
