@@ -178,3 +178,5 @@ The system checks the changes before saving them.
 
 ## D4. SQL Schema Diagram
 <img width="1100" height="1060" alt="Grocery Marketplace Management System" src="https://github.com/user-attachments/assets/83acdd05-b164-4d91-a731-924b219ee706" />
+
+## D5. SQL Script 
