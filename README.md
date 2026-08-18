@@ -27,40 +27,29 @@ The money flow starts when a customer purchases products through the marketplace
 
 ### 1.1 Super Admin
 
-1. The system shall allow the Super Admin to approve or reject new grocery shop registrations.
-2. The system shall allow the Super Admin to suspend or delete shop owners.
-3. The system shall allow the Super Admin to view, search, and filter all Admins and Customers.
-4. The system shall display platform-wide sales, revenue, orders, and commission information.
-5. The system shall allow the Super Admin to view shops with ratings below the selected threshold.
-6. The system shall allow the Super Admin to add, edit, and delete product categories.
-7. The system shall allow the Super Admin to remove inappropriate or fake customer reviews.
+1. The system shall allow the Super Admin to suspend or delete shop owners.
+2. The system shall allow the Super Admin to view, search, and filter all Admins and Customers.
+3. The system shall display platform-wide sales, revenue, orders, and commission information.
+4. The system shall allow the Super Admin to add, edit, and delete product categories.
 
 ### 1.2 Admin
 
 1. The system shall allow an Admin to manage their approved grocery shop profile.
 2. The system shall allow an Admin to add, view, update, and delete their own products.
 3. The system shall allow an Admin to manage product stock and minimum stock levels.
-4. The system shall display low-stock alerts when a product's stock falls below its minimum level.
-5. The system shall allow an Admin to view their sales and earnings.
-6. The system shall allow an Admin to create discount offers with start and end dates.
-7. The system shall allow an Admin to view ratings and reviews for their products.
-8. The system shall allow an Admin to update their own profile and password.
-9. The system shall prevent an Admin from accessing another shop owner's products, orders, or earnings.
+4. The system shall allow an Admin to view their sales and earnings.
+5. The system shall allow an Admin to create discount offers with start and end dates.
 
 ### 1.3 Customer
 
 1. The system shall allow Customers to create an account and sign in.
 2. The system shall allow Customers to browse products from all available shops.
 3. The system shall allow Customers to search products by name or keyword.
-4. The system shall allow Customers to filter products using options such as price, category, location, and availability.
-5. The system shall allow Customers to view product details and reviews.
-6. The system shall allow Customers to add products to their cart.
-7. The system shall allow Customers to update quantities and remove products from their cart.
-8. The system shall allow Customers to checkout and generate a bill/invoice.
-9. The system shall allow Customers to view their order history and printable invoices.
-10. The system shall allow Customers to give a rating from 1–5 and write a review.
-11. The system shall allow Customers to view available discounts and special offers.
-12. The system shall allow Customers to update their own profile and password.
+4. The system shall allow Customers to view product details and reviews.
+5. The system shall allow Customers to add products to their cart.
+6. The system shall allow Customers to update quantities and remove products from their cart.
+7. The system shall allow Customers to checkout and generate a bill/invoice.
+8. The system shall allow Customers to view their order history and printable invoices.
 
 ### 2 User Stories
 
@@ -72,10 +61,10 @@ As a Super Admin, I want to manage shop owners via the Manage Shop Owners module
 **2. View Platform Sales**  
 As a Super Admin, I want to view platform sales and commissions via the Platform Sales & Commission section.
 
-**6. Manage Categories**  
+**3. Manage Categories**  
 As a Super Admin, I want to manage product categories via the Manage Categories section.
 
-**7. Manage Reviews**  
+**4. Manage Reviews**  
 As a Super Admin, I want to moderate and manage customer reviews via the Manage Reviews section.
 
 
@@ -106,13 +95,13 @@ As a Customer, I want to search and filter products via Browse Products.
 **3. Product's Details**  
 As a Customer, I want to view specific item details and feedback through Product Details & Reviews.
 
-**6. Manage Cart**  
+**4. Manage Cart**  
 As a Customer, I want to add selected items to my Cart.
 
-**7. Checkout**  
+**5. Checkout**  
 As a Customer, I want to proceed to Checkout / Invoice to complete my purchase.
 
-**8. Order History**  
+**6. Order History**  
 As a Customer, I want to view my past purchases through Order History.
 
 ## D3. UI Navigation Diagram 
