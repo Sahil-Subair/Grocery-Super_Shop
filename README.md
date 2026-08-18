@@ -176,5 +176,5 @@ The system checks the changes before saving them.
 ## D3. UI Navigation Diagram 
 <img width="673" height="812" alt="UI_Navigation_Diagram png" src="https://github.com/user-attachments/assets/2c84ef33-386c-49fc-ba6f-a786dcb14808" />
 
-## D3. SQL Schema Diagram
+## D4. SQL Schema Diagram
 <img width="1100" height="1060" alt="Grocery Marketplace Management System" src="https://github.com/user-attachments/assets/83acdd05-b164-4d91-a731-924b219ee706" />
